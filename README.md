@@ -55,3 +55,7 @@ Other features like Avg. Area House Age and Area Population might have moderate 
 **Model Assumptions:**
 
 The normal distribution of residuals and the linear relationship in the scatter plot validate the key assumptions of linear regression, such as linearity, homoscedasticity (constant variance of errors), and normality of residuals.
+
+
+![Figure_4](https://github.com/user-attachments/assets/642ca3d6-cd87-46b0-ac95-856aaf65ad34)
+
